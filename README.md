@@ -31,4 +31,4 @@ To build and run iOS applications, you have to deal with iOS code signing _shena
 - Brightness and contrast settings;
 - Recorder;
 - Airplay without mirroring;
-- Change the icon (so nobody thinks Eclipse is related to that other retarded REALbasic software that still user info).
+- Change the icon (so nobody thinks Eclipse is related to that other retarded REALbasic software that steal user info).
